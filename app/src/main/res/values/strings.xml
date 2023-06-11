@@ -1,3 +1,27 @@
 <resources>
     <string name="app_name">NewsApp</string>
+
+    <string name="none">none</string>
+    <string name="business">business</string>
+    <string name="entertainment">entertainment</string>
+    <string name="general">general</string>
+    <string name="health">health</string>
+    <string name="science">science</string>
+    <string name="sports">sports</string>
+    <string name="technology">technology</string>
+    <string name="search_sources">search sources by id sources like (espn, national-geographic, etc)</string>
+    <string name="retry">Retry</string>
+
+    <string-array name="list_category">
+        <item>@string/none</item>
+        <item>@string/business</item>
+        <item>@string/entertainment</item>
+        <item>@string/general</item>
+        <item>@string/health</item>
+        <item>@string/science</item>
+        <item>@string/sports</item>
+        <item>@string/technology</item>
+
+    </string-array>
 </resources>
+
