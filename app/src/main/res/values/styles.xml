@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="RadioButtonBorder" parent="Widget.AppCompat.CompoundButton.RadioButton">
+        <item name="android:button">@drawable/custom_btn_radio</item>
+        <item name="android:background">@drawable/custom_btn_radio_border</item>
+        <item name="android:textColor">@drawable/button_selector_text</item>
+
+    </style>
+
+</resources>
